@@ -8,5 +8,6 @@ Backend repository: [plantdocket-backend](https://github.com/QuantumBreakz/plant
 
 - [Master Documents](https://github.com/QuantumBreakz/plantdocket-backend/blob/main/docs/README.md)
 - [Web delivery plan](docs/frontend-delivery.md)
+- [Frontend repository scaffold](docs/scaffolding/frontend.md)
 - [MVP scope](https://github.com/QuantumBreakz/plantdocket-backend/blob/main/docs/mvp/01-scope.md)
 - [Feature verification matrix](https://github.com/QuantumBreakz/plantdocket-backend/blob/main/docs/delivery/05-feature-verification.md)

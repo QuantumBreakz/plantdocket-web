@@ -2,6 +2,8 @@
 
 The employee website provides factory document control in a desktop browser, with revision history, remarks and approvals. The public guest website offers invitation, email verification and download. Both installation profiles ship these same flows with separate session cookies and route policies per origin. The [web MVP PRD](https://github.com/QuantumBreakz/plantdocket-backend/blob/main/docs/prds/02-onsite-mvp-prd.md) owns product scope.
 
+The [frontend repository scaffold](scaffolding/frontend.md) defines the intended layout, API handoff and onboarding checks.
+
 | Phase | Product slice | Build and acceptance evidence |
 | --- | --- | --- |
 | Web 0. Foundations | Reach the private website → named-account sign-in → workspace | Set up the web server, same-origin control API, site-managed sign-in or selected SSO, server-held credentials and scoped session cookies. Verify HTTPS, account provisioning, CSRF defenses, session expiry and logout. |
